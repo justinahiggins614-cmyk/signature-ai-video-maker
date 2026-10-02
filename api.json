@@ -1,0 +1,16 @@
+{
+ "site": "The Signature Video Maker AI",
+ "title_provisional": true,
+ "site_url": "https://justinahiggins614-cmyk.github.io/signature-ai-video-maker/",
+ "free_and_unlimited": true,
+ "ads_total": 600,
+ "engine": {
+  "js": "https://justinahiggins614-cmyk.github.io/signature-ai-video-maker/assets/engine.js",
+  "deterministic": true,
+  "offline_capable": true
+ },
+ "deep_links": {
+  "ad": "https://justinahiggins614-cmyk.github.io/signature-ai-video-maker/?ad=JAH-AD-000001"
+ },
+ "network": "THE JAH NETWORK \u2014 25 sites"
+}
